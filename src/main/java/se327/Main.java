@@ -1,4 +1,4 @@
-package se331;
+package se327;
 
 public class Main {
     public static void main(String[] args) {
